@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Myappy2</string>
+    <string name="type_your_message_here">Type your message here</string>
+    <string name="send">Send</string>
+</resources>
